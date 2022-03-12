@@ -23,7 +23,7 @@ Paste the code in your contract file.
 
 Go to the compiler icon "see image below" > Select the compiler version 0.6.6 (Make sure the compiler version is 0.6.6) > then click on Compile.
 
-<img scr="https://justpaste.it/img/small/18d9bd3ab29287be12540192345061ee.jpg">
+<img src="https://justpaste.it/img/small/18d9bd3ab29287be12540192345061ee.jpg">
 
 Go to the deployment icon "see image below" > Select the environment "Injected Web3" > Make sure that your Metamask wallet is connected to remix "so you can see your wallet address under in the ACCOUNT box, see image below" > Select the contract file name "the file name you have created" > Click on Deploy > Confirm the gas fees on your wallet.
 
